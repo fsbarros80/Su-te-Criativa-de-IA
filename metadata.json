@@ -1,0 +1,5 @@
+{
+  "name": "Suíte Criativa de IA: Gerador e Editor de Imagens",
+  "description": "Um aplicativo para gerar e editar imagens usando os modelos Imagen e Gemini do Google.",
+  "requestFramePermissions": []
+}
